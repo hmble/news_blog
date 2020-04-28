@@ -1,3 +1,5 @@
+Number: 333  Date: 2020-04-07 
+
 * [Why I'm building a new async runtime](https://stjepang.github.io/2020/04/03/why-im-building-a-new-async-runtime.html).
 * [Futures explained in 200 lines of Rust](https://cfsamson.github.io/books-futures-explained/).
 * [Sled: Error handling in a correctness-critical Rust project](http://sled.rs/errors).
@@ -12,6 +14,9 @@
 * [rust-analyzer changelog 19](https://rust-analyzer.github.io/thisweek/2020/04/06/changelog-19.html).
 * [This month in rustsim 10 - March 2020](https://www.rustsim.org/blog/2020/04/01/this-month-in-rustsim/).
 * [This month in Rust GameDev 8 - March 2020](https://rust-gamedev.github.io/posts/newsletter-008/).
+
+Number: 335  Date: 2020-04-21 
+
 * [Rust Survey 2019 results](https://blog.rust-lang.org/2020/04/17/Rust-survey-2019.html).
 * [Testing sync at Dropbox](https://dropbox.tech/infrastructure/-testing-our-new-sync-engine).
 * [Write an OS for the Raspberry Pi in Rust](https://tc.gts3.org/cs3210/2020/spring/lab.html).
@@ -28,3 +33,4 @@
 * [How I reverse engineered the LastPass CLI tool](http://adventures.michaelfbryan.com/posts/lastpass/).
 * [Open-sourcing dotenv-linter: lightning-fast tool to lint your .env files](https://evrone.com/dotenv-linter).
 * [rust-analyzer changelog 21](https://rust-analyzer.github.io/thisweek/2020/04/20/changelog-21.html).
+
