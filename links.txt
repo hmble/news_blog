@@ -3599,3 +3599,24 @@ Number: 335  Date: 2020-04-21
 * [Open-sourcing dotenv-linter: lightning-fast tool to lint your .env files](https://evrone.com/dotenv-linter).
 * [rust-analyzer changelog 21](https://rust-analyzer.github.io/thisweek/2020/04/20/changelog-21.html).
 
+Number: 336  Date: 2020-04-29 
+
+* 🎈🎉 [Announcing Rust 1.43.0](https://blog.rust-lang.org/2020/04/23/Rust-1.43.0.html). 🎉🎈
+* [How to speed up the Rust compiler in 2020](https://blog.mozilla.org/nnethercote/2020/04/24/how-to-speed-up-the-rust-compiler-in-2020/).
+* [A taste of WebGPU in Firefox](https://hacks.mozilla.org/2020/04/experimental-webgpu-in-firefox/).
+* [Data ingestion with Rust and AWS Lambda](http://jamesmcm.github.io/blog/2020/04/19/data-engineering-with-rust-and-aws-lambda/#en).
+* [Embedded Rust pattern - zero sized references](https://ferrous-systems.com/blog/zero-sized-references/).
+* [Implementing a linear quadtree in Rust](https://snorrwe.onrender.com/posts/morton-table/).
+* [Memory efficient serialization of tagged union](https://robinmoussu.gitlab.io/blog/post/binary_serialisation_of_enum/).
+* [Unpacking Serde](https://www.reddit.com/r/rust/comments/g6ubuv/unpacking_serde_a_series_of_presentations_i_made/).
+* [video] [Rust stream: ownership, closures, and threads - oh my](https://www.youtube.com/watch?v=2mwwYbBRJSo).
+* [video] [Crust of Rust: lifetime annotations](https://www.youtube.com/watch?list=PLqbS7AVVErFiWDOAVrPt7aYmnuuOLYvOa&time_continue=2&v=rAl-9HwD858&feature=emb_logo).
+* [First impressions on Rust and WebAssembly](https://deedone.github.io/posts/rust-wasm/).
+* [From Rust to WebAssembly: Building an interactive note-taking web app with Actix & Yew](https://www.luu.io/posts/lenote).
+* [Rust’s future: internal execution](https://blog.knoldus.com/rusts-future-internal-execution/).
+* [Rust concurrency: five easy pieces](https://medium.com/@polyglot_factotum/rust-concurrency-five-easy-pieces-871f1c62906a).
+* [(Almost) lockless stream buffering](https://mcfelix.me/blog/shared-buffers/).
+* [Rust and Node.js: a match made in heaven](https://blog.logrocket.com/rust-and-node-js-a-match-made-in-heaven/).
+* [Reducing the size of a Rust GStreamer plugin](https://www.collabora.com/news-and-blog/blog/2020/04/28/reducing-size-rust-gstreamer-plugin/).
+* [Writing Python inside your Rust code — Part 2](https://blog.m-ou.se/writing-python-inside-rust-2/).
+
