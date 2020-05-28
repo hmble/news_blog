@@ -7,16 +7,16 @@ fn main() {
     let mut args = env::args();
     args.next();
 
-    for path in args {
-        let mut file = OpenOptions::new()
-            .write(true)
-            .create(true)
-            .append(true)
-            .open("links.txt")
-            .unwrap();
+    let link = args.next().unwrap();
+    let path = args.next().unwrap();
+    let mut file = OpenOptions::new()
+        .write(true)
+        .create(true)
+        .append(true)
+        .open(link)
+        .unwrap();
 
-        append_to_file(&path, &mut file).unwrap();
-    }
+    append_to_file(&path, &mut file).unwrap();
 }
 
 pub fn append_to_file(
