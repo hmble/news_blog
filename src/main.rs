@@ -36,11 +36,11 @@ pub fn append_to_file(
         if line.starts_with("Date: ") {
             file_data = format!("{} {} \n\n", file_data, line);
         }
-        if line.starts_with("# Updates from Rust Community") {
+        if line.starts_with("## Updates from Rust Community") {
             start = i;
         }
 
-        if line.starts_with("# Crate of the Week") {
+        if line.starts_with("## Crate of the Week") {
             end = i;
         }
     }
